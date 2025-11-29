@@ -4,6 +4,9 @@
 [![Vue 3](https://img.shields.io/badge/Vue-3-success)](https://vuejs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+Obs: No caso de fazer o deploy na Vercel verifique se a versão anterior desse sistema estava funcionando na versão Nextjs, se for esse caso entre no painel de configuração da conta na Vercel e altere para Nuxt (de Next para Nuxt) ou então exclua a conta e recrie do zero.
+
 > **Chat em tempo real com IA (intentkit-001)** via API da Crestal Network, com botão de teste para webhook do WhatsApp.  
 > Totalmente migrado do JavaScript vanilla para **Nuxt 4 + Vue 3 + TypeScript + Composables**.
 
